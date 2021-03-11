@@ -9,7 +9,7 @@ cd wireguard
 ### Run install
 ```
 ./install.sh
-
+```
 ### Not wg0 run
 ```
 systemctl enable --now systemd-resolved
