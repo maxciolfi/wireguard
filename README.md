@@ -1,4 +1,10 @@
 # Installation
+### OLD Kernel
+```
+add-apt-repository ppa:wireguard/wireguard
+apt-get update
+apt-get install wireguard-dkms wireguard-tools linux-headers-$(uname -r)
+```
 ### Download and change folder
 ```
 cd ~
