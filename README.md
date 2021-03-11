@@ -10,6 +10,9 @@ cd wireguard
 ```
 ./install.sh
 ```
+not wg0
+systemctl enable --now systemd-resolved
+
 
 # Uninstallation
 
