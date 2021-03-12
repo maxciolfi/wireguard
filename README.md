@@ -8,7 +8,7 @@ apt install wireguard-dkms wireguard-tools linux-headers-$(uname -r)
 ### Download and change folder
 ```
 cd ~
-git clone https://github.com/maxciolfi/wireguard.git
+git clone https://github.com/maxciolfi/wire.git
 
 cd wireguard
 ```
