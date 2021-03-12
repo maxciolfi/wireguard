@@ -10,7 +10,7 @@ apt install wireguard-dkms wireguard-tools linux-headers-$(uname -r)
 cd ~
 git clone https://github.com/maxciolfi/wire.git
 
-cd wireguard
+cd wire
 ```
 ### Run install
 ```
